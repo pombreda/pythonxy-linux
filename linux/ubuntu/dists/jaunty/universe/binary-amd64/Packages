@@ -1,0 +1,42 @@
+Package: pythonxy-base
+Section: universe/science
+Priority: extra
+Maintainer: Claude Gouedard <cgoued@gmail.com>
+Version: 0.0-1
+Architecture: all
+Depends: python2.5, python2.5-dev, python-qt4, python-qwt4, python-qwt4-doc, python-qwt3d-qt4, scite, ipython, python-numpy, python-scipy, python-matplotlib, python-matplotlib-data, python-matplotlib-doc, texlive-extra-utils, texlive-latex-extra, python-reportlab, python-reportlab-accel, python-reportlab-doc   
+Description: Pythonxy Base Metapackage
+ Python is the well known interactive high-level object-oriented 
+ language (version 2.5).
+ .
+ Qt's primary feature is its rich set of widgets that provides
+ standard GUI functionality.
+ .
+ Scite is an alternative, lightweight GTK-based, Multi-language,
+ Programming Editor.
+ .
+ Ipython is an enhanced interactive Python shell.
+ .
+ Numpy is an extraordinary module which adds a fast array object
+ facility to the Python language. Based on Blas and Lapack libraries,
+ it is, with Scipy, the basic module for scientific work with Python.
+ .
+ SciPy supplements the popular Numpy module, gathering a variety of
+ high level science and engineering modules.
+ .
+ Matplotlib is a pure Python plotting library designed to bring
+ publication quality plotting to Python with a syntax
+ familiar to Matlab users. It is complemented by some
+ TexLive modules for labeling plots with Tex language.
+ .
+ ReportLab is a library that lets you directly create documents
+ in Adobe's Portable Document Format (PDF) using the Python
+ programming language.
+Homepage: http://www.pythonxy.com (Maintained by Pierre Raybaut)
+Filename: pool/jaunty/universe/pythonxy-base_0.0-2_all.deb
+Size: 2276
+MD5sum: 89584c2a5061b4de84eb0dccf730506d
+SHA1: 0f1a7dd3b10b16e5396e24ad07ea264de10de466
+SHA256: 8e1e45efc60a828fe77ff64ce78ceacf45fca513b33b7a27169dc9a72a97ebcf
+Origin: cgoued
+

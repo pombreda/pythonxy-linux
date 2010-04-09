@@ -1,0 +1,13 @@
+Origin: Unknown
+Label: Unknown
+Suite: Unknown
+Codename: Unknown
+Date: Sun, 01 Mar 2009 16:21:15 +0100
+Architectures: Unknown
+Components: extras
+Description: Not available
+MD5Sum:
+ a46a0fdb10396bc8493fac36c877a654 5320 base/pkglist.extras
+ c2a67f86ac931b557772d9b78e39c84a 2161 base/pkglist.extras.bz2
+ 01604f9d7c02f9ae19512338f9247e34 141 base/release.extras
+

@@ -1,0 +1,50 @@
+Origin: cgoued
+Label: cgoued
+Suite: cgoued
+Version: 0.0
+Codename: jaunty
+Architectures: i386 amd64
+Components: universe
+Description: Pythonxy, Scientific-oriented Python Metapackages version 0.0
+MD5Sum:
+ a0d7dc66889b3a82a97f70dda6adce5e             1841 universe/binary-amd64/Packages
+ 87d933c94e1144ff6f0e1c2e72b29013             1083 universe/binary-amd64/Packages.bz2
+ ed57d5327659c39c0fd2312b33059bdd             1028 universe/binary-amd64/Packages.gz
+ 4b2538564f60e696fa90dc51214e005a               98 universe/binary-amd64/Release
+ a0d7dc66889b3a82a97f70dda6adce5e             1841 universe/binary-i386/Packages
+ 87d933c94e1144ff6f0e1c2e72b29013             1083 universe/binary-i386/Packages.bz2
+ ed57d5327659c39c0fd2312b33059bdd             1028 universe/binary-i386/Packages.gz
+ b987f9a1fd5d90a9a4da49d7b90e8024               97 universe/binary-i386/Release
+ 688ab728aaf2d076aee3af721dd509f7               99 universe/source/Release
+ d41d8cd98f00b204e9800998ecf8427e                0 universe/source/Sources
+ 4059d198768f9f8dc9372dc1c54bc3c3               14 universe/source/Sources.bz2
+ 08f36c0327804a580020b5b118b708a5               28 universe/source/Sources.gz
+
+SHA1:
+ 99a732022c033e02344dc55c49f00a110db47299             1841 universe/binary-amd64/Packages
+ a38b4e8df7c034f452b0032758dd938292eb0e9c             1083 universe/binary-amd64/Packages.bz2
+ 16ab4e5d3cf3acdde497aafa8f74f5f056abdf9d             1028 universe/binary-amd64/Packages.gz
+ f7f89d6ec5e18ad18d9dcd5af3f7ad221ba3a676               98 universe/binary-amd64/Release
+ 99a732022c033e02344dc55c49f00a110db47299             1841 universe/binary-i386/Packages
+ a38b4e8df7c034f452b0032758dd938292eb0e9c             1083 universe/binary-i386/Packages.bz2
+ 16ab4e5d3cf3acdde497aafa8f74f5f056abdf9d             1028 universe/binary-i386/Packages.gz
+ 93992d8df79748117f53dc068fef9a069256d283               97 universe/binary-i386/Release
+ f989176c66d5c74dfcd4ddf5af8ef2f29eae553d               99 universe/source/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709                0 universe/source/Sources
+ 64a543afbb5f4bf728636bdcbbe7a2ed0804adc2               14 universe/source/Sources.bz2
+ 35d225e54d6f6cfa6f608ca79393a8b79bf515e7               28 universe/source/Sources.gz
+
+SHA256:
+ 4696bac0e2d529dc2398bfa6c1d47c23f77368885163e78f737410e0bc343bc5             1841 universe/binary-amd64/Packages
+ ec547d4a24826ca25b0bbd4d6d2186bd80b31f1ff80649ac173bf76e8df36911             1083 universe/binary-amd64/Packages.bz2
+ 7dbe95fc8b2269d6725d1d38485e1e012802f26ac29c21c35d31898d8423f4d1             1028 universe/binary-amd64/Packages.gz
+ 308029c2eedc66c298944da86a75fe4b4742137cd64b48dd47b7e9ef211cef11               98 universe/binary-amd64/Release
+ 4696bac0e2d529dc2398bfa6c1d47c23f77368885163e78f737410e0bc343bc5             1841 universe/binary-i386/Packages
+ ec547d4a24826ca25b0bbd4d6d2186bd80b31f1ff80649ac173bf76e8df36911             1083 universe/binary-i386/Packages.bz2
+ 7dbe95fc8b2269d6725d1d38485e1e012802f26ac29c21c35d31898d8423f4d1             1028 universe/binary-i386/Packages.gz
+ 6d85d29110f27cd18191c27f4c0c9ec657042b8b1bd3c56f1ea52f892d7b7107               97 universe/binary-i386/Release
+ 0df002eb8384c3757d5b00fa2efead89178113974c37f96bca432a91e4932111               99 universe/source/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855                0 universe/source/Sources
+ d3dda84eb03b9738d118eb2be78e246106900493c0ae07819ad60815134a8058               14 universe/source/Sources.bz2
+ 9806384d01374a6744b10bda11a34c706c78ba8b6f8357dc16ae2636315d3be6               28 universe/source/Sources.gz
+

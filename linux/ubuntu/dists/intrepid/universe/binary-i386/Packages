@@ -1,0 +1,142 @@
+Package: cython
+Version: 0.9.6.14-1
+Architecture: all
+Maintainer: Python Applications Packaging Team <python-apps-team@lists.alioth.debian.org>
+Installed-Size: 964
+Depends: python, python-support (>= 0.7.1)
+Suggests: gcc
+Section: universe/python
+Priority: optional
+Homepage: http://cython.org/
+Description: C-Extensions for Python
+ Cython is a language that makes writing C extensions for the Python language as
+ easy as Python itself.
+ .
+ Cython is based on the well-known Pyrex, but supports more cutting edge
+ functionality and optimizations.
+ .
+ Development of Cython is mainly motivated by the needs of Sage.
+Python-Version: 2.4, 2.5
+Filename: pool/intrepid/universe/cython_0.9.6.14-1_all.deb
+Size: 168598
+MD5sum: 857db7143f1fca98f5c7b2607be061d5
+SHA1: 9702d565c5330574640c309023771cf7ea41af51
+SHA256: bc0fdd4285d9267129edd3902f1274fa22552447ef79b94bd3ee27f0ff9d1c79
+Origin: cgoued
+
+Package: pythonxy-applications
+Section: universe/science
+Priority: extra
+Maintainer: Claude Gouedard <cgoued@gmail.com>
+Version: 0.0-1
+Architecture: all
+Depends: pythonxy-vtk, python-insighttoolkit, python-insighttoolkit-extras, insighttoolkit-examples
+Description: Pythonxy Applications Package
+ ITK (Insight Toolkit) is a Medical Imaging Toolkit from Kitware,
+ providing enhancement of VTK libraries, whose applications can be
+ useful far beyond the scope of medical imaging.
+ The toolkit provides Python bindings and bridges to VTK.
+ Currently under active development, ITK employs leading-edge 
+ segmentation and registration algorithms in two, three, 
+ and even more dimensions. 
+Homepage: http://www.pythonxy.com (Maintained by Pierre Raybaut)
+Filename: pool/intrepid/universe/pythonxy-applications_0.0-1_all.deb
+Size: 1734
+MD5sum: 7aa41246f39d9f210a465af2f83c8f33
+SHA1: 2141d2d68de9b7fd011d92356f0ee3ecdc1fb96b
+SHA256: 7ef5d2f9ea5f7e9210cded4ea2b1de580928a8d1a9c12ef1ae6155e1aa9048f0
+Origin: cgoued
+
+Package: pythonxy-base
+Section: universe/science
+Priority: extra
+Maintainer: Claude Gouedard <cgoued@gmail.com>
+Version: 0.0-1
+Architecture: all
+Depends: python2.5, python2.5-dev, python-qt4,  python-qwt4,  python-qwt4-doc, python-qwt3d-qt4, scite, ipython, python-numpy, python-scipy, python-matplotlib, python-matplotlib-data, python-matplotlib-doc, texlive-extra-utils, texlive-latex-extra, python-reportlab, python-reportlab-accel, python-reportlab-doc   
+Description: Pythonxy Base Metapackage
+ Python is the well known interactive high-level object-oriented 
+ language (version 2.5).
+ .
+ Qt's primary feature is its rich set of widgets that provides
+ standard GUI functionality.
+ .
+ Scite is an alternative, lightweight GTK-based, Multi-language,
+ Programming Editor.
+ .
+ Ipython is an enhanced interactive Python shell.
+ .
+ Numpy is an extraordinary module which adds a fast array object
+ facility to the Python language. Based on Blas and Lapack libraries,
+ it is, with Scipy, the basic module for scientific work with Python.
+ .
+ SciPy supplements the popular Numpy module, gathering a variety of
+ high level science and engineering modules.
+ .
+ Matplotlib is a pure Python plotting library designed to bring
+ publication quality plotting to Python with a syntax
+ familiar to Matlab users. It is complemented by some
+ TexLive modules for labeling plots with Tex language.
+ .
+ ReportLab is a library that lets you directly create documents
+ in Adobe's Portable Document Format (PDF) using the Python
+ programming language.
+Homepage: http://www.pythonxy.com (Maintained by Pierre Raybaut)
+Filename: pool/intrepid/universe/pythonxy-base_0.0-1_all.deb
+Size: 2266
+MD5sum: 3bef324dca869bc45fc738b8aa0c4f86
+SHA1: 8ad3a95c0952af7bc33e3e5592f3c6944b8c720e
+SHA256: 79c4f28689483fb8956171e7ce3ab4233fee9d4b464f38f50b845c0921b0a6b7
+Origin: cgoued
+
+Package: pythonxy-dev  
+Section: universe/science
+Priority: extra
+Maintainer: Claude Gouedard <cgoued@gmail.com>
+Version: 0.0-1
+Architecture: all
+Depends: pythonxy-base, python-qt4-dev, eclipse-pydev, eclipse-cdt, cmake, swig
+Description: Pythonxy Development Metapackage
+ This is the development package for Pythonxy.
+ Aside the simple python editor Scite included in the base package,
+ we provide a complete, Eclipse based environment including the 
+ cdt (C/C++) and pydev (Python) pluggins. 
+ This set of modules is suitable for setting up large Python applications.
+ .
+ Cython is a language based on the well-known Pyrex, that makes 
+ writing C extensions for the Python language as easy as Python itself.
+ .
+ Swig is a tool to get Python bindings for your C/C++ codes.
+ .
+ CMake generates native makefiles and workspaces that can be 
+ used in the compiler environment of your choice. 
+ You must know cmake to build your own applications based on VTK or ITK.
+Homepage: http://www.pythonxy.com (Maintained by Pierre Raybaut)
+Filename: pool/intrepid/universe/pythonxy-dev_0.0-1_all.deb
+Size: 1868
+MD5sum: 9e62c54a27c898b243dde61ac473c4e1
+SHA1: 1ac4301815b5efbe8a6f035a3c0afe891f3e7b88
+SHA256: 0261dcc7c945e175e40f197f98cd4eb09ed7b4dc682dd4f14fd3c2ed04ed1f12
+Origin: cgoued
+
+Package: pythonxy-vtk
+Section: universe/science
+Priority: extra
+Maintainer: Claude Gouedard <cgoued@gmail.com>
+Version: 0.0-1
+Architecture: all
+Depends: pythonxy-base, python-vtk, vtk-doc, vtk-examples, mayavi
+Description: Pythonxy Visualization and Traitment VTK Package
+ This is the Pythonxy package of Python bindings for VTK
+ (the Visual Toolkit from Kitware)
+ .
+ Mayavi is a rather simple Python application for
+ visualisation of VTK-format data files.
+Homepage: http://www.pythonxy.com (Maintained by Pierre Raybaut)
+Filename: pool/intrepid/universe/pythonxy-vtk_0.0-1_all.deb
+Size: 1612
+MD5sum: 11e92f5795b972af976cbca9d0da8850
+SHA1: a23a276f202231883a0ea844d2e29ac22b5bc8d2
+SHA256: 71b4f73ce5f53e494e2784b0afbf6c02b2f2fc4386ba46b9961aa8fc2ae7ad7c
+Origin: cgoued
+

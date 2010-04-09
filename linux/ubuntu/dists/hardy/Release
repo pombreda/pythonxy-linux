@@ -1,0 +1,86 @@
+Origin: cgoued
+Label: cgoued
+Suite: cgoued
+Version: 8.04
+Codename: hardy
+Architectures: i386 amd64
+Components: pythonxy-full universe
+Description: Pythonxy, Scientific-oriented Python Metapackages version 8.04
+MD5Sum:
+ 089a38a50c017b2e3c94772ecc302238             5772 pythonxy-full/binary-amd64/Packages
+ e97bba9210c1cac3e9b9af544b5bbbce             2484 pythonxy-full/binary-amd64/Packages.bz2
+ db08ae407c6b28c9b2d0aee7170bcaa2             2422 pythonxy-full/binary-amd64/Packages.gz
+ 3ae6a2ff625f3e2a2b7ea24f75a28773              103 pythonxy-full/binary-amd64/Release
+ 089a38a50c017b2e3c94772ecc302238             5772 pythonxy-full/binary-i386/Packages
+ e97bba9210c1cac3e9b9af544b5bbbce             2484 pythonxy-full/binary-i386/Packages.bz2
+ db08ae407c6b28c9b2d0aee7170bcaa2             2422 pythonxy-full/binary-i386/Packages.gz
+ 2594955b14e30e4ae98ad36d18a7ad85              102 pythonxy-full/binary-i386/Release
+ 7a05fff1dddb7705722057c0fcef5335              104 pythonxy-full/source/Release
+ d41d8cd98f00b204e9800998ecf8427e                0 pythonxy-full/source/Sources
+ 4059d198768f9f8dc9372dc1c54bc3c3               14 pythonxy-full/source/Sources.bz2
+ 7008ff36ef7a5c65d2924a4c3660034f               28 pythonxy-full/source/Sources.gz
+ 089a38a50c017b2e3c94772ecc302238             5772 universe/binary-amd64/Packages
+ e97bba9210c1cac3e9b9af544b5bbbce             2484 universe/binary-amd64/Packages.bz2
+ 4be3907de892f6c15a68f197733c54de             2422 universe/binary-amd64/Packages.gz
+ 7bda044134f39c43576a08868c7b485f               98 universe/binary-amd64/Release
+ 089a38a50c017b2e3c94772ecc302238             5772 universe/binary-i386/Packages
+ e97bba9210c1cac3e9b9af544b5bbbce             2484 universe/binary-i386/Packages.bz2
+ 4be3907de892f6c15a68f197733c54de             2422 universe/binary-i386/Packages.gz
+ 01459d4cc81346b5bce778103948367b               97 universe/binary-i386/Release
+ 94f2dfbc1c5f051d65e18e07c138b7fc               99 universe/source/Release
+ d41d8cd98f00b204e9800998ecf8427e                0 universe/source/Sources
+ 4059d198768f9f8dc9372dc1c54bc3c3               14 universe/source/Sources.bz2
+ e8c09b27c3c02ab4d8cc20874a325549               28 universe/source/Sources.gz
+
+SHA1:
+ 0a66e9ae7ed4772ed3fdcc7d11c2e7c0f53f005f             5772 pythonxy-full/binary-amd64/Packages
+ a7716d2b5c14d861cf247bae39ee677769177a8b             2484 pythonxy-full/binary-amd64/Packages.bz2
+ 32df028d38e50400804d65ce1d95ba9c04f9fc00             2422 pythonxy-full/binary-amd64/Packages.gz
+ b2acc5673fdf9274ac1714df6764cee43008714e              103 pythonxy-full/binary-amd64/Release
+ 0a66e9ae7ed4772ed3fdcc7d11c2e7c0f53f005f             5772 pythonxy-full/binary-i386/Packages
+ a7716d2b5c14d861cf247bae39ee677769177a8b             2484 pythonxy-full/binary-i386/Packages.bz2
+ 32df028d38e50400804d65ce1d95ba9c04f9fc00             2422 pythonxy-full/binary-i386/Packages.gz
+ 1eb904c59d6ca1a66560c1a3c163e793e58f5bb1              102 pythonxy-full/binary-i386/Release
+ 51162a828e056106aed02aa806cbe4fdbacd8109              104 pythonxy-full/source/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709                0 pythonxy-full/source/Sources
+ 64a543afbb5f4bf728636bdcbbe7a2ed0804adc2               14 pythonxy-full/source/Sources.bz2
+ 6549e9f103f94f32e8e3189c2c0fa79a6f751056               28 pythonxy-full/source/Sources.gz
+ 0a66e9ae7ed4772ed3fdcc7d11c2e7c0f53f005f             5772 universe/binary-amd64/Packages
+ a7716d2b5c14d861cf247bae39ee677769177a8b             2484 universe/binary-amd64/Packages.bz2
+ 391b651b9f3fb8abd73929b73ab2923e8cadb09b             2422 universe/binary-amd64/Packages.gz
+ ea5e893ef21c1e11ca73ae363859a353973377e6               98 universe/binary-amd64/Release
+ 0a66e9ae7ed4772ed3fdcc7d11c2e7c0f53f005f             5772 universe/binary-i386/Packages
+ a7716d2b5c14d861cf247bae39ee677769177a8b             2484 universe/binary-i386/Packages.bz2
+ 391b651b9f3fb8abd73929b73ab2923e8cadb09b             2422 universe/binary-i386/Packages.gz
+ bf41c9434dcbb416bf73613373d30ed0418a5b2a               97 universe/binary-i386/Release
+ e8baef7709a6fecd23c0cf40a3ca43a0089cf8f4               99 universe/source/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709                0 universe/source/Sources
+ 64a543afbb5f4bf728636bdcbbe7a2ed0804adc2               14 universe/source/Sources.bz2
+ a91f9a8229464936948c95f61ec12c80c86fc95d               28 universe/source/Sources.gz
+
+SHA256:
+ 8dac69203d44159e67d3a92cfa7e5cb2367af7f9ecab0ed88df594550d5dcbf0             5772 pythonxy-full/binary-amd64/Packages
+ 024e957e2a3f8268f8e3e8e78e101a6f7f047325f25f03f0499febae0d3db0d9             2484 pythonxy-full/binary-amd64/Packages.bz2
+ b9b33cb0daa45999d481243348c2a75e349fc9a6ec48c4e1f0da5f1850ecc64a             2422 pythonxy-full/binary-amd64/Packages.gz
+ 9f5a8fa98919121758e276612e420b2adb27ac7b9e7e0e32692c1f861520bdc7              103 pythonxy-full/binary-amd64/Release
+ 8dac69203d44159e67d3a92cfa7e5cb2367af7f9ecab0ed88df594550d5dcbf0             5772 pythonxy-full/binary-i386/Packages
+ 024e957e2a3f8268f8e3e8e78e101a6f7f047325f25f03f0499febae0d3db0d9             2484 pythonxy-full/binary-i386/Packages.bz2
+ b9b33cb0daa45999d481243348c2a75e349fc9a6ec48c4e1f0da5f1850ecc64a             2422 pythonxy-full/binary-i386/Packages.gz
+ b4a2c7138f73ee127db202593000d1879fb38f76feace217fc0dd174b6f24a95              102 pythonxy-full/binary-i386/Release
+ 758d5515bb5ac645aa45954b027dd7a09317ef0c1b5c3cc7d84d4f9a6fce6bc1              104 pythonxy-full/source/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855                0 pythonxy-full/source/Sources
+ d3dda84eb03b9738d118eb2be78e246106900493c0ae07819ad60815134a8058               14 pythonxy-full/source/Sources.bz2
+ cfadd20ba65a2d5cb63f6c7599a0eb6a39dc2e185f293583e14095d97d83f681               28 pythonxy-full/source/Sources.gz
+ 8dac69203d44159e67d3a92cfa7e5cb2367af7f9ecab0ed88df594550d5dcbf0             5772 universe/binary-amd64/Packages
+ 024e957e2a3f8268f8e3e8e78e101a6f7f047325f25f03f0499febae0d3db0d9             2484 universe/binary-amd64/Packages.bz2
+ b4751152e422a3606c63d8f44d72570e071100efbf1fbefefbcb7975781ca03f             2422 universe/binary-amd64/Packages.gz
+ f6716d667aa08afc7a23819c28b98e566aec0d794736a7135339840b19257f98               98 universe/binary-amd64/Release
+ 8dac69203d44159e67d3a92cfa7e5cb2367af7f9ecab0ed88df594550d5dcbf0             5772 universe/binary-i386/Packages
+ 024e957e2a3f8268f8e3e8e78e101a6f7f047325f25f03f0499febae0d3db0d9             2484 universe/binary-i386/Packages.bz2
+ b4751152e422a3606c63d8f44d72570e071100efbf1fbefefbcb7975781ca03f             2422 universe/binary-i386/Packages.gz
+ 3375df2f9cb252ded9a84577577f75af3cfa502c93bfa66a421bd99d18e0cb7b               97 universe/binary-i386/Release
+ f47de668dabffe3374aca268aae381e55edf2e808962cfc969b7fe2e3c5c8f8f               99 universe/source/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855                0 universe/source/Sources
+ d3dda84eb03b9738d118eb2be78e246106900493c0ae07819ad60815134a8058               14 universe/source/Sources.bz2
+ f512f941256edac3c1b72471a750f4bb9d5b2e731214be66801e65e066170717               28 universe/source/Sources.gz
+

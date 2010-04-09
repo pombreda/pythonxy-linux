@@ -1,0 +1,169 @@
+body {
+  background-color: #FFFFCC;
+  margin: 1em;
+  font-family: arial, verdana, sans-serif;
+}
+#top {
+  padding: none;
+  margin-left: 39px;
+  margin-right: 39px;
+}
+#topcenter {
+  padding-top: 3px;
+  width: 100%;
+  border-top: solid 2px #3058c5;
+  background-color: white;
+  float: left;
+  height: 34px;
+  text-align: center;
+  font-size: 1.8em;
+}
+#topleft {
+  padding: none;
+  margin: none;
+  height: 39px;
+  width: 39px;
+  overflow: hidden;
+  background-image: url(corner.png);
+  background-position: top left;
+  background-repeat: no-repeat;
+  position: absolute;
+  left: 1em;
+}
+#topright {
+  padding: none;
+  margin: none;
+  height: 39px;
+  width: 39px;
+  overflow: hidden;
+  background-image: url(corner.png);
+  background-position: top right;
+  background-repeat: no-repeat;
+  float: right;
+  position: absolute;
+  right: 1em
+}
+#main {
+  padding: 2em;
+  clear: both;
+  border-left: solid 2px #3058c5;
+  border-right: solid 2px #3058c5;
+  background-color: white;
+}
+#logo {
+  position: absolute;
+  right: 36px;
+  top: 36px;
+  z-index: 1;
+}
+#bottom {
+  clear: both;
+  padding: none;
+  margin-left: 39px;
+  margin-right: 39px;
+  padding-bottom: 15px;
+}
+#bottomcenter {
+  padding-top: 15px;
+  width: 100%;
+  border-bottom: solid 2px #3058c5;
+  background-color: white;
+  float: left;
+  height: 22px;
+  text-align: center;
+  font-size: 0.6em;
+}
+#bottomleft {
+  padding: none;
+  margin: none;
+  height: 39px;
+  width: 39px;
+  overflow: hidden;
+  background-image: url(corner.png);
+  background-position: bottom left;
+  background-repeat: no-repeat;
+  position: absolute;
+  left: 1em;
+}
+#bottomright {
+  padding: none;
+  margin: none;
+  height: 39px;
+  width: 39px;
+  overflow: hidden;
+  background-image: url(corner.png);
+  background-position: bottom right;
+  background-repeat: no-repeat;
+  float: right;
+  position: absolute;
+  right: 1em
+}
+.msgbox {
+  margin-top: 2em;
+  margin-left: 2em;
+  clear: both;
+  width: 12em;
+  border: dashed 1px #3058c5;
+  font-size: 0.8em;
+  overflow: auto;
+  float: right;
+  padding: 0.6em;
+  background-color: white;
+}
+div.repo {
+          padding: 3px;
+          margin-top: 5px;
+          margin-bottom: 5px;
+          border: dashed 1px #e3431a;
+          font-family: monospace;
+          background-color: white;
+}
+.msgbpad {
+  float: right;
+  height: 50px;
+
+}
+
+a {
+  color: #3058c5;
+  text-decoration: none;
+  border-bottom: dotted 1px #3058c5;
+}
+
+dd {
+  margin-bottom: 0.7em;
+  padding-left: 0.5em;
+  border-left: solid 2px #3058c5;
+}
+dd.half {
+  border-right: solid 18em white;
+}
+
+dt {
+  font-weight: bold;
+  border-bottom: solid 2px #3058c5;
+  padding-left: 0.2em;
+  background-color: #FFFFCC;
+}
+dt a {
+  color: black;
+  text-decoration: none;
+  border-bottom: none;
+}
+
+th, td {
+  vertical-align: top;
+}
+th {
+  text-align: left;
+  font-weight: normal;
+  white-space: nowrap;
+}
+span.t {
+   display: none;
+}
+span.tl {
+  color: #3058c5;
+  text-decoration: dotted 1px #3058c5;
+  cursor: pointer;
+}
